@@ -1,0 +1,2 @@
+class BaseCategory < ApplicationRecord
+end
