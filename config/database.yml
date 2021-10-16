@@ -3,6 +3,7 @@ development:
   database: crufree
   username: crufree
   host: localhost
+  port: 3306
 
 production:
   adapter: mysql2
