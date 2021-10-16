@@ -1,0 +1,7 @@
+development:
+  adapter: mysql2
+  database: DBNAMEHERE
+  username: USERNAMEHERE
+  password:
+  host: localhost
+  socket: /tmp/mysql.sock?
